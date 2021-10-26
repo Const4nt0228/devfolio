@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://sangsupark.netlify.app`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Sangsu Park',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `박상수 | 새로운것에 도전하는 개발자`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `현재는 원트리즈뮤직에서 음악플레이어를 개발하고있습니다`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/Const4nt0228`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
@@ -19,10 +19,10 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Noonchi-Piano',
         description:
           'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/NoonChi-PIANO/noonchi-piano-rep',
       },
       {
         name: 'ChromeExtensionKit',
