@@ -21,19 +21,19 @@ module.exports = {
       {
         name: '눈으로 치는 피아노 눈치피아노 : Noonchi-Piano',
         description:
-          '2020.09~ 2021.09, 2021 KPU Capstone Design Contest 벤처기업협회장 수상작입니다. 초보자들이 피아노를 쉽게 배울수 있도록 만든 애플리케이션으로, 통신 서버 구축과 음계 인식 모듈을 개발했습니다',
+          '2021 KPU Capstone Design Contest 벤처기업협회장 수상작입니다. 초보자들이 피아노를 쉽게 배울수 있도록 만든 애플리케이션으로, 통신 서버 구축과 음계 인식 모듈을 개발했습니다.  2020.09~ 2021.09',
         link: 'https://github.com/NoonChi-PIANO/noonchi-piano-rep',
       },
       {
         name: '전신주 안전관리 시스템',
         description:
-          '2021.07~2021.08 한국산업기술대학교 K-Digital Tranning의 최종프로젝트입니다. 팀장으로써 전체 프로그램 설계와, 라즈베리파이를 이용한 IoT 시스템 구축 및 Node-Red 설계를 하였습니다. 최종 프로젝트 우승작입니다',
+          '한국산업기술대학교 K-Digital Tranning의 최종프로젝트입니다. 팀장으로써 전체 프로그램 설계와, 라즈베리파이를 이용한 IoT 시스템 구축 및 Node-Red 설계를 하였습니다. 최종 프로젝트 우승작입니다.  2021.07~2021.08 ',
         link: 'https://github.com/KPU-K-DIGITAL-IOT/KDigitalIoTProject',
       },
       {
         name: 'Blinds Translated music Sheet',
         description:
-          '2021.10~ Now, 2021 ICT 이노베이션 스퀘어 공모전 : 시각장애인을 위한 악보 자동 점자 변환기입니다. 애플리케이션 통신 서버 구축과 아두이노 모듈을 개발했습니다',
+          '2021 ICT 이노베이션 스퀘어 공모전 : 시각장애인을 위한 악보 자동 점자 변환기입니다. 애플리케이션 통신 서버 구축과 아두이노 모듈을 개발했습니다.  2021.10~ Now',
         link: 'https://github.com/KPUAvengers/ITCIS-KPU',
       },
     ],
@@ -55,7 +55,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          '이 언어는 많이 익숙해요 : Java, Kotlin, \n C ',
+          'IoT와 임베디드 프로젝트를 진행할때는 주로 C, Python 을 많이 이용합니다. 안드로이드 앱 개발은 주로 Java를 사용하며 토이 프로젝트들은 Kotlin으로 진행하고있습니다. 백엔드 서버는 PHP를 사용하여 구축하고있습니다',
       },
       {
         name: 'Databases',
