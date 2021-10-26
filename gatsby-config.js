@@ -31,7 +31,7 @@ module.exports = {
         link: 'https://github.com/KPU-K-DIGITAL-IOT/KDigitalIoTProject',
       },
       {
-        name: 'Blind's Translated music Sheet',
+        name: 'Blinds Translated music Sheet',
         description:
           '2021.10~ Now, 2021 ICT 이노베이션 스퀘어 공모전 : 시각장애인을 위한 악보 자동 점자 변환기입니다. 애플리케이션 통신 서버 구축과 아두이노 모듈을 개발했습니다',
         link: 'https://github.com/KPUAvengers/ITCIS-KPU',
