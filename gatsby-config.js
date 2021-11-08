@@ -30,11 +30,17 @@ module.exports = {
           '한국산업기술대학교 K-Digital Tranning의 최종프로젝트입니다. 팀장으로써 전체 프로그램 설계와, 라즈베리파이를 이용한 IoT 시스템 구축 및 Node-Red 설계를 하였습니다. 최종 프로젝트 우승작입니다.  2021.07~2021.08 ',
         link: 'https://github.com/KPU-K-DIGITAL-IOT/KDigitalIoTProject',
       },
-      {
-        name: 'Blinds Translated music Sheet',
+	  {
+        name: '임베디드 프로젝트 : 뱀 게임',
         description:
-          '2021 ICT 이노베이션 스퀘어 공모전 : 시각장애인을 위한 악보 자동 점자 변환기입니다. 애플리케이션 통신 서버 구축과 아두이노 모듈을 개발했습니다.  2021.10~ Now',
-        link: 'https://github.com/KPUAvengers/ITCIS-KPU',
+          '한국산업기술대학교 임베디드 시스템 과목 최종 프로젝트입니다. Linux 상에서 C언어로 제작된 뱀게임 로직과 Achro-EM Dot Matrix 제어부분을 구현하였습니다.  2020.09~2020.12 ',
+        link: 'https://github.com/Const4nt0228/Embedded_Snake_Game',
+      },
+	  {
+        name: 'IoT 프로젝트 : 뱀 게임',
+        description:
+          '한국산업기술대학교 IoT 시스템 과목 최종 프로젝트입니다. 라즈베리파이의 라즈비안OS 상에서 Python으로 동작하는 라인트레이서 자동차입니다. 회로 설계, 라인트레이싱 코드, HTML 조종 페이지를 제작하였습니다.  2021.03~2020.06 ',
+        link: 'https://github.com/Const4nt0228/Embedded_Snake_Game',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
